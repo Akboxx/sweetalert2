@@ -86,6 +86,7 @@ For all questions related to sponsorship please get in touch with me via email s
 <td align="center"><a href="https://www.sexdolltech.com/product-category/us-warehouse/"><img src="https://sweetalert2.github.io/images/sponsors/sexdolltech.jpeg" width="80"><br>SexDollTech</a></td>
 <td align="center"><a href="https://www.sexdollsoff.com/"><img src="https://sweetalert2.github.io/images/sponsors/sexdollsoff.png" width="80"><br>SexDollsOff</a></td>
 <td align="center"><a href="https://realsexdoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/realsexdoll.png" width="80"><br>RealSexDoll</a></td>
+<td align="center"><a href="https://vedoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/vedoll.png" width="80"><br>VeDoll</a></td>
 </tr>
 </table>
 <table>
